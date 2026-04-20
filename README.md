@@ -151,3 +151,10 @@ GitHub: [Pritamdas16](https://github.com/Pritamdas16)
 ## 📄 License
 
 This project is for educational purposes.
+
+## 📝 Note
+Run `step1_preprocessing.py` first to generate:
+- `cleaned_data.csv`
+- `cleaned_data_raw.csv`
+
+These files are auto-generated and not included in the repo.
